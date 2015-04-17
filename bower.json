@@ -3,6 +3,7 @@
   "contributors": [
     "Alan James"
   ],
+  "main": "js-schema.min.js",
   "name": "js-schema",
   "description": "A simple and intuitive object validation library",
   "keywords": [
